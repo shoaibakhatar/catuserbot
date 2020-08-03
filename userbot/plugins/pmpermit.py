@@ -17,7 +17,7 @@ USER_BOT_NO_WARN = ("[╔─━━━━━━━━🇳🇵░░  ░░🙄�
                     "`Hello, NAMASTE🙏🙏🙏,  wait for my master.send your 3 msg onely,`"
                     f"{DEFAULTUSER}'s` inbox.\n\n"
                     "😈😈agar clan member hai tyo ruk ja sab ko milega full help. 😡😡Nahi hai tyo nikal ja pahele first mai😡😡.`\n\n"
-                    "** Send** `/start` ** 🇳🇵🇳🇵RUKO JARA RUKO😜😜.**")
+                    "** Send file** `` ** 🇳🇵🇳🇵RUKO JARA RUKO😜😜.**")
 
 
 if Var.PRIVATE_GROUP_ID is not None:
